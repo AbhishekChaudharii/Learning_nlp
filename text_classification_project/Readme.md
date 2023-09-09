@@ -8,3 +8,9 @@ In today's fast-paced digital world, staying updated with relevant news is cruci
 
 
 ![Alt Text](./text_classification_project.png)
+
+
+![Alt Text](./text_classification project_1.gif)
+
+
+![Alt Text](./text_classification project_2.gif)
