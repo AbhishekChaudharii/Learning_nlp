@@ -10,7 +10,7 @@ In today's fast-paced digital world, staying updated with relevant news is cruci
 ![Alt Text](./text_classification_project.png)
 
 
-![Alt Text](./text_classification project_1.gif)
+![Alt Text](https://github.com/AbhishekChaudharii/Learning_nlp/blob/master/text_classification_project/text_classification_project_1.gif)
 
 
-![Alt Text](./text_classification project_2.gif)
+![Alt Text](https://github.com/AbhishekChaudharii/Learning_nlp/blob/master/text_classification_project/text_classification_project_2.gif)
