@@ -7,6 +7,9 @@ In today's fast-paced digital world, staying updated with relevant news is cruci
 
 
 
+This project includes a web scraper that allows you to scrape articles about US economy from the livemint website.
+ 
+
 ![Alt Text](./text_classification_project.png)
 
 
