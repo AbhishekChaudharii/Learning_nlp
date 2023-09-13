@@ -3,3 +3,4 @@ text_classification_project/US-Economic-News.csv
 text_classification_project/us_economy_df.csv
 text_classification_project/webscrapping.ipynb
 text_classification_project/test.ipynb
+.gitignore
