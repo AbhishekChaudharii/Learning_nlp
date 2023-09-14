@@ -1,9 +1,7 @@
 
 # Text Classification Project: US Economy News Relevance Classifier
 
-<img src=https://img.shields.io/badge/build%20with-python-yellow>
-<img src="https://img.shields.io/badge/Beautiful_Soup-blueviolet">
-<img src = https://img.shields.io/badge/domain-Natural_Language_Processing-red> <img src = https://img.shields.io/badge/Machine_Learning-green>
+<img src=https://img.shields.io/badge/build%20with-python-yellow> <img src="https://img.shields.io/badge/Beautiful_Soup-blueviolet"> <img src = https://img.shields.io/badge/domain-Natural_Language_Processing-red><img src = https://img.shields.io/badge/Machine_Learning-green>
 
 
 ## Project Description
